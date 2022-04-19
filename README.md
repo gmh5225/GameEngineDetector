@@ -1,1 +1,1 @@
-# GameEngineScanner
+# GameEngineDetector
